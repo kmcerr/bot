@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "chat-bot-api",
   "version": "1.0.0",
   "main": "chat.js",
   "type": "module",
